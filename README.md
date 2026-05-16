@@ -1,4 +1,4 @@
-# 📱 my_first_learn1
+# 📱 Dự án lập trình di động đầu tiên của tôi
 
 > **Môn học:** Lập trình Thiết bị Di động 1 (Android với Flutter)  
 > **Dự án:** Ứng dụng Android Fellow4U
