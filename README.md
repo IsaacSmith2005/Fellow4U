@@ -43,5 +43,5 @@ Chào mừng bạn đến với kho lưu trữ (repository) dành cho môn học
 
 1. **Cloning dự án về máy:**
    ```bash
-   git clone [https://github.com/your-username/my_first_learn1.git](https://github.com/your-username/my_first_learn1.git)
-   cd my_first_learn1
+   git clone https://github.com/IsaacSmith2005/Fellow4U.git
+   cd fellow4u
