@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e1",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e0",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "avatar": "https://png.pngtree.com/png-clipart/20221218/original/pngtree-director-of-the-company-png-image_8773847.png"
+    },
+    "bio": "Experienced guide with a passion for exploring Da Nang.",
+    "languages": ["English", "Vietnamese"],
+    "hourlyRate": 25,
+    "city": "Da Nang",
+    "rating": 4.8,
+    "reviewCount": 127,
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8rtkiUmkg4j_uhYMYEa9SVkj0JnbVITaCA&s",
+      "https://img.freepik.com/hinh-chup-mien-phi/nguoi-phu-nu-trong-mot-cuoc-trien-lam-nghe-thuat_53876-14379.jpg?semt=ais_hybrid&w=740&q=80"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-16T10:00:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e3",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "avatar": "https://www.versicherungsfuzzi.info/wp-content/uploads/2023/07/good-4328790_12801.png"
+    },
+    "bio": "Local expert in Hoi An, specializing in cultural tours.",
+    "languages": ["English", "Vietnamese", "French"],
+    "hourlyRate": 30,
+    "city": "Hoi An",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "gallery": [
+      "https://weddingdecor.vn/wp-content/uploads/2019/07/Dianthus-Portfolio-DungTristan-29-899x600.jpg",
+      "https://weddingdecor.vn/wp-content/uploads/2015/11/Dianthus-Porfolio-TramTetsuya-02-900x598.jpg"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-15T11:00:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e4",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e3",
+      "firstName": "Minh",
+      "lastName": "Nguyen",
+      "email": "minh.nguyen@example.com",
+      "avatar": "https://st3.depositphotos.com/12780408/17069/v/450/depositphotos_170693058-stock-illustration-chairman-of-the-board-cartoon.jpg"
+    },
+    "bio": "Adventure guide specializing in mountain trekking and eco-tours in Sapa.",
+    "languages": ["English", "Vietnamese", "Mandarin"],
+    "hourlyRate": 35,
+    "city": "Sapa",
+    "rating": 4.7,
+    "reviewCount": 95,
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-TMIhWSiDy8dtDXtlj4i3kfL18KAItNpZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxU38l0rJKjcoMPfG8Ooy3wLli6KaSlsrVw&s"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-14T09:00:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e5",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e4",
+      "firstName": "Anna",
+      "lastName": "Kim",
+      "email": "anna.kim@example.com",
+      "avatar": "https://png.pngtree.com/png-clipart/20250118/original/pngtree-businessman-standing-with-folded-arms-in-office-png-image_19934418.png"
+    },
+    "bio": "Food tour guide exploring Vietnamese cuisine and street food culture.",
+    "languages": ["English", "Vietnamese", "Korean"],
+    "hourlyRate": 28,
+    "city": "Ho Chi Minh City",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "gallery": [
+      "https://www.shutterstock.com/image-vector/blank-golden-frame-on-blue-260nw-2605362475.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXXuRT0rboc2uyFkwJnB3Z24Yo1nLoNLsbA&s"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-13T14:30:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e6",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e5",
+      "firstName": "Carlos",
+      "lastName": "Rodriguez",
+      "email": "carlos.rodriguez@example.com",
+      "avatar": "https://png.pngtree.com/png-vector/20240927/ourmid/pngtree-a-man-dressed-in-suit-and-tie-poses-elegantly-represented-clean-png-image_13926753.png"
+    },
+    "bio": "Marine biology guide offering diving and snorkeling tours in Nha Trang.",
+    "languages": ["English", "Vietnamese", "Spanish"],
+    "hourlyRate": 40,
+    "city": "Nha Trang",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "gallery": [
+      "https://weddingdecor.vn/wp-content/uploads/2019/07/Dianthus-Portfolio-PhuongThien-14-900x598.jpg",
+      "https://mocmienwedding.com/wp-content/uploads/2025/11/dich-vu-trang-tri-ban-gallery-tphcm-8-3.jpg"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-12T16:00:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e7",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e6",
+      "firstName": "Linh",
+      "lastName": "Tran",
+      "email": "linh.tran@example.com",
+      "avatar": "https://png.pngtree.com/png-vector/20250825/ourmid/pngtree-cartoon-businessman-character-with-glasses-and-blue-tie-standing-png-image_17133353.webp"
+    },
+    "bio": "Historical guide specializing in Hue's imperial city and ancient monuments.",
+    "languages": ["English", "Vietnamese", "French"],
+    "hourlyRate": 32,
+    "city": "Hue",
+    "rating": 4.8,
+    "reviewCount": 78,
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8aEJ3b49HfKx56GZ1eX_Oa3xDv77GRMOliA&s",
+      "https://vinhome.com.vn/wp-content/uploads/2025/05/vinhomes-the-gallery-52.jpg"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-11T10:15:00.000Z"
+  },
+  {
+    "_id": "65f5e3e3e3e3e3e3e3e3e3e8",
+    "user": {
+      "_id": "65f5e3e3e3e3e3e3e3e3e3e7",
+      "firstName": "David",
+      "lastName": "Chen",
+      "email": "david.chen@example.com",
+      "avatar": "https://png.pngtree.com/png-vector/20250130/ourmid/pngtree-caricature-of-a-confident-businessman-in-dark-suit-and-red-tie-png-image_15372629.png"
+    },
+    "bio": "Photography tour guide capturing Vietnam's landscapes and cultural heritage.",
+    "languages": ["English", "Vietnamese", "Mandarin"],
+    "hourlyRate": 45,
+    "city": "Ha Long Bay",
+    "rating": 5.0,
+    "reviewCount": 245,
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-WeISWsufa_LGAt7P5xNKU_fCzf1UiYmGQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VGKQSdPq-BGU-QE7b57RESux_WocW-MPsQ&s"
+    ],
+    "isAvailable": true,
+    "createdAt": "2024-03-10T13:45:00.000Z"
+  }
+]
